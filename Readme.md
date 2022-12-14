@@ -8,13 +8,15 @@ speed while keeping vehicles safe. Moreover, we added the predicted trajectories
 ## Install
 Training and testing environmrnt is based on OpenAI/Gym and highway-env packages.
 
-```pip install gym
+```pip install gym```
 
-```pip install highway-env
+```pip install highway-env```
 
 RL models are based on Baseline3.
 
-```pip install baselines
+```pip install baselines```
+
+After that, replace the all related files in highway-env with my implements, including kinematics.py, obeservation.py and my_highway_env.py.
 
 ## Code Description
 code/data -> all experiments results
