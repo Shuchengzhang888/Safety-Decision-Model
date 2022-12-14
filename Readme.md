@@ -5,6 +5,8 @@ To overcome the shortcomings of handcrafted decision methods in field of autonom
 Q Network (DQN) to complete safe and high-speed driving in the highway environment. The experiments showed that our model greatly increased average
 speed while keeping vehicles safe. Moreover, we added the predicted trajectories of surrounding vehicles into the original input and proved their importance in improving the risk forecast ability.
 
+More details are shown in the report.
+
 ## Install
 Training and testing environmrnt is based on OpenAI/Gym and highway-env packages.
 
